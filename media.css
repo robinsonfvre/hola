@@ -1,0 +1,14 @@
+@media (max-width: 300px) {
+  #product {
+    margin: 0;
+    justify-conte: center;
+  }
+  #shop {
+    position: absolute;
+    z-index: 1000;
+    width: 100%;
+    right: 0;
+    height: cacl(97%);
+  }
+}
+/*# sourceMappingURL=media.css.map */
